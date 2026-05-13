@@ -1,0 +1,13 @@
+authors:
+- Ansible
+dependencies: {}
+description: Bulk test collection tnsb164e5.tcec427591 (based on ansible.utils)
+license:
+- GPL-2.0-or-later
+name: tcec427591
+namespace: tnsb164e5
+readme: README.md
+repository: https://github.com/test/tnsb164e5.tcec427591
+tags:
+- networking
+version: 6.0.2
